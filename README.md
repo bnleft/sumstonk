@@ -26,7 +26,8 @@ Give people a general feel of a stock's performance
 - Run `go run main.go`
 
 ### Demo
-TBA
+![image](https://github.com/bnleft/sumstonk/assets/80173797/c6fdc598-9bbf-48b3-8260-b18b01dc252f)
+![image](https://github.com/bnleft/sumstonk/assets/80173797/2fd63ab6-5106-4aa0-aa85-f5787aca0c73)
 
 ### Future Features
 - Configure number of sources
